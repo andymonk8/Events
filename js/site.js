@@ -1,4 +1,4 @@
-// this initial dataset for superdog.
+// this initial dataset for Star Events.
 //It is an array of objects
 const events = [
   {
